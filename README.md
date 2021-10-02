@@ -1,7 +1,7 @@
 # My first project clone
 
 ## How to use ?
-    - Install packages with ` or npm install.
+    - Install packages with yarn or npm install.
         - If you have native iOS code run npx pod-install.
     - Run yarn start to start the bundler.
     - To preview the app, use expo for android or IOS.
